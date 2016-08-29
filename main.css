@@ -1,0 +1,135 @@
+@import 'https://fonts.googleapis.com/css?family=Montserrat:400,700';
+
+h1 {
+    font-family: 'GT Haptik', Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    margin: 0;
+}
+
+h2 {
+    font-family: 'GT Haptik', Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    letter-spacing: 0.5px;
+    margin: 0;
+}
+
+h3 {
+    font-family: 'GT Haptik light', Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    letter-spacing: 1px;
+    margin: 0;
+}
+
+p {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+img {
+    padding: 0;
+    margin: 0;
+}
+
+.ev-container {
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+.secondary-container {
+    padding: 0 79px;
+}
+
+#ev-intro-left {
+    width: 377px;
+}
+
+#ev-intro-left p {
+    font-size: 18px;
+    font-family: 'GT Haptik light';
+}
+
+#ev-intro-right {
+    display: inline-block;
+    width: 400px;
+}
+
+#ev-intro-button {
+    background: #1bb0ce;
+    border: none;
+    padding: 7px 27px;
+    font-family: 'GT Haptik medium';
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.primary-ev-nav {
+    width: 465px;
+    height: 555px;
+    display: inline-block;
+    padding: 0;
+    margin-bottom: 47px;
+}
+
+.primary-ev-nav-text {
+    background: rgba(32,191,85,0.8);
+    padding: 35px;
+    margin-top: -4px;
+    color: #fff;
+}
+
+.primary-ev-nav-text button {
+    background: #fff;
+    border: none;
+    padding: 7px 27px;
+    font-family: 'GT Haptik medium';
+    font-size: 14px;
+    text-transform: uppercase;
+    color: rgb(32,191,85);
+}
+
+#ev-nav-padding {
+    padding-right: 28px;
+}
+
+.secondary-ev-nav {
+    margin: 0 auto 32px;
+    width: 892px;
+    padding: 35px;
+    color: #fff;
+    background: #1bb0ce;
+    display: table;
+}
+
+.secondary-ev-nav p {
+    margin: 0;
+}
+
+.secondary-left {
+    margin: auto;
+    width: 500px;
+    display: inline-block;
+}
+
+.secondary-right {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    }
+
+.secondary-ev-nav button {
+    background: #fff;
+    border: none;
+    padding: 7px 27px;
+    font-family: 'GT Haptik medium';
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #1bb0ce;
+}
+
+.divider-line {
+    width: 200px;
+    height: 1px;
+    background-color: #ffffff;
+    margin: 25px 0;
+}
